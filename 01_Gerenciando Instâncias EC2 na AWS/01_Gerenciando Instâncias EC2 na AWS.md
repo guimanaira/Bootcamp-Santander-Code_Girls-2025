@@ -54,4 +54,8 @@ Um ambiente automatizado e inteligente que:
 - Melhora a eficiência no processamento de dados de financiamento imobiliário;
 - Promove boas práticas de **FinOps (Financial Operations)** na nuvem.
 
+<p align="center">
+  <img src="01_Gerenciando Instâncias EC2 na AWS/gerenciando_de_instancias_EC2.gif" width="400" alt="Demonstração do funcionamento do projeto">
+</p>
+
 
