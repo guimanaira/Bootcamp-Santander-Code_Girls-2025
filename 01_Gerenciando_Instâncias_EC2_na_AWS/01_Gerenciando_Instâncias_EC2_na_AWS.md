@@ -54,8 +54,11 @@ Um ambiente automatizado e inteligente que:
 - Melhora a eficiência no processamento de dados de financiamento imobiliário;
 - Promove boas práticas de **FinOps (Financial Operations)** na nuvem.
 
+## 📈 Diagrama de Gerenciamento de Instâncias EC2
 <p align="center">
-  <img src="01_Gerenciando_Instâncias_EC2_na_AWS/01_gerenciando_instancias_EC2.gif" width="500" alt="Demonstração do projeto">
+  <a href="https://github.com/guimanaira/01_Gerenciando_Instâncias_EC2_na_AWS">
+    <img src="https://raw.githubusercontent.com/guimanaira/01_Gerenciando_Instâncias_EC2_na_AWS/main/01_Gerenciando_Instâncias_EC2_na_AWS/img_instancias.gif" width="400" alt="Demonstração do projeto">
+  </a>
 </p>
 
 
