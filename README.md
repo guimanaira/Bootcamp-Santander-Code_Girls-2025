@@ -17,8 +17,8 @@ Desenvolvi projetos aplicando **recursos de nuvem, orquestração de containers 
 ## **📂 Projetos Desenvolvidos**
 Durante o bootcamp, apliquei os conhecimentos adquiridos em projetos práticos:
 
-### **🏦** [Gerenciando Instâncias EC2 na AWS](https://github.com/guimanaira/Bootcamp-SantanderCode_Girls2025/blob/main/01_Gerenciando_Inst%C3%A2ncias_EC2_na_AWS/01_Gerenciando_Inst%C3%A2ncias_EC2_na_AWS.md)
-### **🏦** [Explorando Workflows Automatizados com AWS Step Functions]
-### **🖨️** [Implementando sua Primeira Stack com AWS CloudFormation]
-### **🖨️** [Implementando Infraestrutura Automatizada com AWS CloudFormation]
-### **🖨️** [Executando Tarefas Automatizadas com Lambda Function e S3]
+### 🏦 [Gerenciando Instâncias EC2 na AWS](https://github.com/guimanaira/Bootcamp-Santander-Code_Girls-2025/blob/main/01_Gerenciando_Inst%C3%A2ncias_EC2_na_AWS/01_Gerenciando_Inst%C3%A2ncias_EC2_na_AWS.md)
+### 🏦 [Explorando Workflows Automatizados com AWS Step Functions]
+### 🖨️ [Implementando sua Primeira Stack com AWS CloudFormation]
+### 🖨️ [Implementando Infraestrutura Automatizada com AWS CloudFormation]
+### 🖨️ [Executando Tarefas Automatizadas com Lambda Function e S3]
