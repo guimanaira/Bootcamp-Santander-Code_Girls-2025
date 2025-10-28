@@ -55,5 +55,5 @@ Um ambiente automatizado e inteligente que:
 - Promove boas práticas de **FinOps (Financial Operations)** na nuvem.
 
 ## 📈 Diagrama de Gerenciamento de Instâncias EC2
-
+[Meu Diagrama](https://www.notion.so/Portf-lio-145de1aca0e78092afb5c1aa93d25112)
 
