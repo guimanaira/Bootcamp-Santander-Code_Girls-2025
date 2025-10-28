@@ -55,7 +55,7 @@ Um ambiente automatizado e inteligente que:
 - Promove boas práticas de **FinOps (Financial Operations)** na nuvem.
 
 <p align="center">
-  <img src="01_Gerenciando Instâncias EC2 na AWS/gerenciando_de_instancias_EC2.gif" width="400" alt="Demonstração do funcionamento do projeto">
+  <img src="01_Gerenciando_Instâncias_EC2_na_AWS/01_gerenciando_instancias_EC2.gif" width="500" alt="Demonstração do projeto">
 </p>
 
 
