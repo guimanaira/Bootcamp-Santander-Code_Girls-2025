@@ -54,7 +54,4 @@ Um ambiente automatizado e inteligente que:
 - Melhora a eficiência no processamento de dados de financiamento imobiliário;
 - Promove boas práticas de **FinOps (Financial Operations)** na nuvem.
 
-<p align="center">
-  <img src="01_Gerenciando_Instâncias_EC2/gerenciamento_de_instancias.gif" width="600" alt="Demonstração do funcionamento do projeto">
-</p>
 
