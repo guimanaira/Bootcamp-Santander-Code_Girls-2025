@@ -56,9 +56,7 @@ Um ambiente automatizado e inteligente que:
 
 ## 📈 Diagrama de Gerenciamento de Instâncias EC2
 <p align="center">
-  <a href="https://github.com/guimanaira/01_Gerenciando_Instâncias_EC2_na_AWS">
-    <img src="https://raw.githubusercontent.com/guimanaira/01_Gerenciando_Instâncias_EC2_na_AWS/main/01_Gerenciando_Instâncias_EC2_na_AWS/img_instancias.gif" width="400" alt="Demonstração do projeto">
-  </a>
+  <img src="https://raw.githubusercontent.com/SEU_USUARIO/SEU_REPOSITORIO/main/01_Gerenciando_Instâncias_EC2_na_AWS/img_instancias.gif" width="400" alt="Demonstração do projeto">
 </p>
 
 
